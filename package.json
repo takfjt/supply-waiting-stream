@@ -1,0 +1,16 @@
+{
+  "name": "supply-waiting-stream",
+  "version": "0.0.0",
+  "description": "readable stream that wait supplied data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "Takahiro Fujita <takfjt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "event-stream": "^3.3.4",
+    "mocha": "^3.2.0"
+  }
+}
